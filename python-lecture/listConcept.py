@@ -27,3 +27,16 @@ funSum = questList[-1]+questList[-2]+questList[-3]+questList[-4]
 print(funSum)
 print(max(questList))
 print(min(questList))
+
+
+
+
+
+
+
+
+
+
+
+
+

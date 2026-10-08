@@ -50,6 +50,9 @@ print(eval(evalution)) # for calculative operation evall() iss use
 
 defaultString = "shivam is default string "
 
-isUpper  = defaultString.upper() # no argument is passed to it teh only thing is done to do upper case  and the modified stri ng is return 
+isUpper  = defaultString.upper() # no argument is passed to it teh only thing is done to do upper case  and retuns the value but not modifys original string  
 
+print(defaultString)
 print(isUpper) 
+
+isLower  = defaultString
