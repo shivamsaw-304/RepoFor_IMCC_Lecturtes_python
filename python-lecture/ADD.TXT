@@ -1,0 +1,15 @@
+HTTTP PORT NO  IS - 80
+HTTPS PORT NO IS - 443 - IF FOLLOW ALGO TO ENCRIPT THE DATA FOR TRANSMITION - SSl
+
+HTTP -----------------> HTTPS
+       |_>  SECURE SOCKET LAYER (SSL) IT IS PAID SERVICE MOSTLY 
+
+
+CDN = content delivery netwok
+
+dns = domain name service only provide name to IP add
+
+exposition of port number through ip add - enginX - to prevent local port , revers proxy , port mapping , 
+
+two way , one way - encripton once encript no decrips  - rainbow table(0)
+   |_ private ,public  key for server is different 
