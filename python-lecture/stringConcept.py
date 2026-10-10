@@ -52,7 +52,26 @@ defaultString = "shivam is default string "
 
 isUpper  = defaultString.upper() # no argument is passed to it teh only thing is done to do upper case  and retuns the value but not modifys original string  
 
-print(defaultString)
-print(isUpper) 
+# print(defaultString)
+# print(isUpper) 
 
-isLower  = defaultString
+# isLower  = defaultString
+
+
+# firstCapital = defaultString.capitalize() # it only upper the first chr only
+
+
+
+# print(firstCapital)
+# print(defaultString)
+
+# titleCapital = defaultString.title() # upper case to all words first charactert
+
+# print(titleCapital)
+# print(defaultString)
+
+
+swapCaseString = defaultString.swapcase()
+print(defaultString.swapcase())
+print(swapCaseString)
+print(defaultString)

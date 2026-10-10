@@ -13,3 +13,56 @@ exposition of port number through ip add - enginX - to prevent local port , reve
 
 two way , one way - encripton once encript no decrips  - rainbow table(0)
    |_ private ,public  key for server is different 
+   
+what are they , how they work , what they work -- they are part of delpoymnent 
+
+// port mapping ,no of port are available 
+// blog storage
+// cors
+// 
+
+---------------------------------
+api route(/login)
+react router for calling api 
+-- function ki limit hain ki woh kiytna call hoga
+body is compolssery for put,post,patch(put ,patch do same thing but something is)
+put = it can update full body of  the data 
+patch = it only update perticular data  edit 
+---- this required heawdder and body for TRANSMITION of data --
+
+header - authentication and authorisation
+clietnt - browser  - server - db
+
+tocken  - acces token , refesh token (in session) 
+session - TTL(Time to live )
+coockie  -  
+localStorage -start(local storage methods)
+
+--------------------------------------------------------------
+status code  = 
+success = 200 - 
+server - 503 , 501 , 
+resource relocted - from 300
+client  - from 400 
+ -----------rate limiting  - to preser the dos  and ddos ---------------
+
+ nginx - it blocks port for the port is no granted its is basic work
+ 
+ - ip-port 192.168.909.9:3030
+  
+
+  ---------------------------------------------------------------------------
+  project kelia
+  1 repo on github
+    |
+    |----> Folder
+            | 
+            |--->  frontend
+            |---> backend 
+
+diagram prep
+  |
+  | -> use case diagram 
+
+  ----------------------to study
+  encription, dcrepion , hasing types one way - two way 
