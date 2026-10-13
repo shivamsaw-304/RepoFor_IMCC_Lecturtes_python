@@ -1,12 +1,14 @@
+
+
+# code block of Creating Node and Linked List
+#  creation of node block 
 class Node :
 
     def __init__(self,value):
         self.data = value
         self.next = None
-        
 
-
-
+# creation of link list and implementatiion of codes of questions
 class LinkList :
 
     def __init__(self):
@@ -37,12 +39,6 @@ class LinkList :
  
             temp = temp.next
         print("none")
-
-
-        
-
-
-
 
 
 node1 = Node("last")
