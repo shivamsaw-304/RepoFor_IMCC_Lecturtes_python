@@ -1,0 +1,2 @@
+this data contaions
+ colloection of words and it should return how many vowel are preswnt in vowel 

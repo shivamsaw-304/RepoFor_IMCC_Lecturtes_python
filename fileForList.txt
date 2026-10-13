@@ -1,0 +1,5 @@
+this file content is for q2 , this content is in line 1
+the question says to print  the line 2 and line 4 , this content is in line 2
+this content is from line 3
+this content is in line 4
+this is line 5  
