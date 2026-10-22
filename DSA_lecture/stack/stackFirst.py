@@ -15,6 +15,23 @@ class Stack:
         newNode.next = self.top
         self.top = newNode
 
+    def pop(self):
+
+
+        if self.isEmpty :
+            print("stack is empty ")
+            return 
+
+        temp = self.top
+        print("poped element : " , temp.data)
+
+        self.top  = self.top.next
+
+        temp = None
+
+
+
+
     def printStack(self):
         temp = self.top
 
@@ -26,6 +43,7 @@ class Stack:
 
 stack = Stack()
 
+stack.pop()
 stack.push(Node(1))
 stack.push(Node(2))
 stack.push(Node(3))
@@ -34,5 +52,7 @@ stack.push(Node(5))
 stack.push(Node(6))
 
 stack.printStack()
+stack.pop()
+
 
 
