@@ -18,7 +18,7 @@ class Stack:
     def pop(self):
 
 
-        if self.isEmpty :
+        if self.top == None:
             print("stack is empty ")
 
         else:
