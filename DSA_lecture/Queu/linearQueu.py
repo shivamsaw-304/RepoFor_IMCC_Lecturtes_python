@@ -30,14 +30,14 @@ class Queue :
             self.rear = newNode
            
 
-    # def printQueu(self):
+    def printQueu(self):
 
-    #     copyRear = self.rear
-    #     copyFront = self.front
+        copyRear = self.rear
+        copyFront = self.front
 
-    #     while copyFront != copyRear :
-    #         print(copyFront.data , end="---")
-    #         copyFront = copyFront.next
+        while copyFront != copyRear :
+            print(copyFront.data , end="---")
+            copyFront = copyFront.next
 
 
 
